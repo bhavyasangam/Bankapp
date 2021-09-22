@@ -2,5 +2,5 @@ projectKey=org.cap.app:Day1-BankApp
 serverUrl=http://localhost:9000
 serverVersion=7.0.0.36138
 dashboardUrl=http://localhost:9000/dashboard/index/org.cap.app:Day1-BankApp
-ceTaskId=AXwHmrBIH9Nub74fENyn
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwHmrBIH9Nub74fENyn
+ceTaskId=AXwMSt2bDisZZ3oynp7W
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwMSt2bDisZZ3oynp7W
